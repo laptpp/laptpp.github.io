@@ -127,3 +127,41 @@ theme_config:
     banner_img: /img/blog-banner.png
   links:
     banner_img: /img/blog-banner.png
+  dark_mode:
+    enable: true
+    default: light
+  color:
+    body_bg_color: "#f3f7fa"
+    body_bg_color_dark: "#18212c"
+    navbar_bg_color: "rgba(29, 45, 61, 0.78)"
+    navbar_bg_color_dark: "#1b2836"
+    navbar_text_color: "#f5f7fa"
+    navbar_text_color_dark: "#e4eaf0"
+    subtitle_color: "#ffffff"
+    subtitle_color_dark: "#f5f7fa"
+    text_color: "#34465a"
+    text_color_dark: "#e0e6ed"
+    sec_text_color: "#75869a"
+    sec_text_color_dark: "#b0bac5"
+    board_color: "#ffffff"
+    board_color_dark: "#263442"
+    post_text_color: "#34465a"
+    post_text_color_dark: "#e0e6ed"
+    post_heading_color: "#26384b"
+    post_heading_color_dark: "#f0f3f6"
+    post_link_color: "#527f9f"
+    post_link_color_dark: "#91bad8"
+    link_hover_color: "#8cb6ce"
+    link_hover_color_dark: "#acd2e8"
+    link_hover_bg_color: "#edf4f8"
+    link_hover_bg_color_dark: "#34495b"
+    line_color: "#e3eaf0"
+    line_color_dark: "#435566"
+    scrollbar_color: "#becbd6"
+    scrollbar_color_dark: "#657888"
+    scrollbar_hover_color: "#93a6b6"
+    scrollbar_hover_color_dark: "#a5b5c2"
+    button_bg_color: "transparent"
+    button_bg_color_dark: "transparent"
+    button_hover_bg_color: "#eaf1f5"
+    button_hover_bg_color_dark: "#3c5367"
