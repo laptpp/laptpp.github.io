@@ -110,7 +110,7 @@ theme_config:
     banner_img: /img/blog-banner.png
     slogan:
       enable: true
-      text: "欢迎来到我的个人博客"
+      text: "好好学习，天天向上"
   post:
     banner_img: /img/blog-banner.png
   archive:
