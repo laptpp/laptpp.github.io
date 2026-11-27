@@ -102,3 +102,28 @@ deploy:
   type: git
   repo: git@github.com:laptpp/laptpp.github.io.git
   branch: main
+
+theme_config:
+  navbar:
+    blog_title: "laptpp 的个人博客"
+  index:
+    banner_img: /img/blog-banner.png
+    slogan:
+      enable: true
+      text: "欢迎来到我的个人博客"
+  post:
+    banner_img: /img/blog-banner.png
+  archive:
+    banner_img: /img/blog-banner.png
+  category:
+    banner_img: /img/blog-banner.png
+  tag:
+    banner_img: /img/blog-banner.png
+  about:
+    banner_img: /img/blog-banner.png
+  page:
+    banner_img: /img/blog-banner.png
+  page404:
+    banner_img: /img/blog-banner.png
+  links:
+    banner_img: /img/blog-banner.png
