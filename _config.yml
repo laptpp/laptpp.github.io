@@ -165,3 +165,5 @@ theme_config:
     button_bg_color_dark: "transparent"
     button_hover_bg_color: "#eaf1f5"
     button_hover_bg_color_dark: "#3c5367"
+  favicon: /img/starry-favicon.jpg
+  apple_touch_icon: /img/starry-favicon.jpg
